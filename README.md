@@ -230,4 +230,4 @@ For questions, suggestions, or collaboration opportunities:
 
 **⭐ Star this project if you find it useful!**
 
-**🤝 Let's build the future of education together!**<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/e3966372-095c-4d6b-a70b-53e5e61ee711" />
+**🤝 Let's build the future of education together!**<img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/894df917-f89e-4b40-820a-491b33d8c5a9" />
